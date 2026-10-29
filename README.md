@@ -1,7 +1,7 @@
 # sport-forcast
 
 <p align="center">
-  <img src="portable.svg" alt="Forecast journal. One file. No account. No source in the download." width="880">
+  <img src="card.svg" alt="Forecast journal. One file. No account. No source in the download." width="880">
 </p>
 
 A proprietary football journal. One file, no installer, no account. The download does not contain source.
