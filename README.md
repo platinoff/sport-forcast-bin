@@ -26,7 +26,11 @@ Download the file and run it. The journal listens on `http://127.0.0.1:9741`. En
 
 | File | Who it is for |
 |------|----------------|
-| [sport-forcast.exe](https://github.com/platinoff/sport-forcast-bin/releases/download/v0.2.3/sport-forcast.exe) | Windows |
-| [sport-forcast](https://github.com/platinoff/sport-forcast-bin/releases/download/v0.2.3/sport-forcast) | Linux x86_64, one file, no shared libraries |
+| [sport-forcast.exe](https://github.com/platinoff/sport-forcast-bin/releases/download/v0.2.4/sport-forcast.exe) | Windows. Use this file on a PC. |
+| [sport-forcast.bin](https://github.com/platinoff/sport-forcast-bin/releases/download/v0.2.4/sport-forcast.bin) | Linux x86_64, one file, no shared libraries. |
+
+On Windows, download `sport-forcast.exe`. The `.bin` file is the Linux program. A download with no extension is an older Linux file; it is not the Windows program.
+
+Windows may say the publisher is unknown. The executable is not signed yet. The name Madevinc is not a certificate, so that blue screen stays until a code-signing certificate is issued to the company.
 
 An Android apk is not in this release. An empty package is not attached.
