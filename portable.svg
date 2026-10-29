@@ -3,27 +3,27 @@
   <desc id="portable-desc">A proprietary forecast journal. One file, no source, no account. The pick is points per match. The odds column is a local record or a dash.</desc>
   <rect width="960" height="720" fill="#f7f1e4"/>
   <rect x="32" y="24" width="896" height="672" fill="#fffdf8" stroke="#1a4630" stroke-width="1.5"/>
-  <text x="64" y="88" fill="#1a4630" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="46">sport-forcast</text>
-  <text x="64" y="124" fill="#1c1914" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="20">?????? ?????????. ???? ????. ??? ?????????? ??????.</text>
-  <line x1="64" y1="146" x2="620" y2="146" stroke="#1a4630" stroke-width="3"/>
-  <line x1="64" y1="154" x2="620" y2="154" stroke="#1a4630" stroke-width="1"/>
-  <g fill="#1c1914" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="22">
-    <text x="64" y="210">???????</text>
-    <text x="64" y="268">??????????</text>
-    <text x="64" y="326">??????</text>
-    <text x="64" y="384">????????</text>
+  <text x="64" y="88" fill="#1a4630" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="46">sport-forcast</text>
+  <text x="64" y="124" fill="#1c1914" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="20">Forecast journal. One file. No account.</text>
+  <line x1="64" y1="146" x2="560" y2="146" stroke="#1a4630" stroke-width="3"/>
+  <line x1="64" y1="154" x2="560" y2="154" stroke="#1a4630" stroke-width="1"/>
+  <g fill="#1c1914" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="22">
+    <text x="64" y="210">Forecast</text>
+    <text x="64" y="268">Odds</text>
+    <text x="64" y="326">Markets</text>
+    <text x="64" y="384">Licence</text>
   </g>
-  <g fill="#1a4630" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="18">
-    <text x="280" y="210">?????? ???? ?? ???? ? ??????? ????</text>
-    <text x="280" y="242">?? ?? ???? ? ?? ????????</text>
-    <text x="280" y="268">????????? ????? ????? ?? ?????????</text>
-    <text x="280" y="300">????? ?????? ? ?? ???????? ????</text>
-    <text x="280" y="326">???????, ??????, ??????, ??????, ?????????</text>
-    <text x="280" y="384">????????????. ????????? ???? ? ???????????? ?????</text>
+  <g fill="#1a4630" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="18">
+    <text x="250" y="210">more points per match on the league table</text>
+    <text x="250" y="242">not a price, and not a promise</text>
+    <text x="250" y="268">a local record beside the program</text>
+    <text x="250" y="300">no record, and the column is a dash</text>
+    <text x="250" y="326">Ukraine, Poland, England, Canada, Germany</text>
+    <text x="250" y="384">proprietary. The download has no source</text>
   </g>
   <rect x="64" y="440" width="832" height="210" fill="#1a4630"/>
-  <text x="88" y="492" fill="#f7f1e4" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="28">??????????? ????????</text>
-  <text x="88" y="540" fill="#f7f1e4" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="20">Windows    sport-forcast.exe</text>
-  <text x="88" y="576" fill="#f7f1e4" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="20">Linux      sport-forcast</text>
-  <text x="88" y="612" fill="#c4b89a" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="20">Android    apk ?? ?? ? ????? ???????</text>
+  <text x="88" y="492" fill="#f7f1e4" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="28">Download the program</text>
+  <text x="88" y="540" fill="#f7f1e4" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="20">Windows    sport-forcast.exe</text>
+  <text x="88" y="576" fill="#f7f1e4" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="20">Linux      sport-forcast</text>
+  <text x="88" y="612" fill="#c4b89a" font-family="Georgia, Palatino Linotype, Palatino, serif" font-size="20">Android    apk is not in this release</text>
 </svg>
