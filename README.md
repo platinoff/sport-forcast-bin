@@ -1,7 +1,7 @@
 # sport-forcast
 
 <p align="center">
-  <img src="portable.svg" alt="Five football markets and a portable download: Windows exe and Linux binary. No install." width="880">
+  <img src="portable.svg" alt="Five football markets and a Windows portable download. No install." width="880">
 </p>
 
 One file. No installer. No account.
