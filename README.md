@@ -31,6 +31,8 @@ Download the file and run it. The journal listens on `http://127.0.0.1:9741`. En
 
 On Windows, download `sport-forcast.exe`. The `.bin` file is the Linux program. A download with no extension is an older Linux file; it is not the Windows program.
 
+A Mac cannot run `sport-forcast.bin`. That file is Linux only. This release has no Mac program.
+
 Windows may say the publisher is unknown. The executable is not signed yet. The name Madevinc is not a certificate, so that blue screen stays until a code-signing certificate is issued to the company.
 
 An Android apk is not in this release. An empty package is not attached.
