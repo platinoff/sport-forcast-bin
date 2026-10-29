@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="portable-title portable-desc">
+  <title id="portable-title">sport-forcast portable</title>
+  <desc id="portable-desc">A paper card names five football markets and the portable download. No install. Source stays private.</desc>
+  <rect width="960" height="640" fill="#f7f1e4"/>
+  <rect x="36" y="28" width="888" height="584" fill="#fffdf8" stroke="#1a4630" stroke-width="1.5" stroke-dasharray="2944" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="2944" to="0" dur="1.6s" fill="freeze"/>
+  </rect>
+  <text x="72" y="92" fill="#1a4630" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="42" letter-spacing="1">sport-forcast</text>
+  <text x="72" y="128" fill="#1c1914" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="18">Portable forecast journal. One file. No account.</text>
+  <line x1="72" y1="148" x2="520" y2="148" stroke="#1a4630" stroke-width="3"/>
+  <line x1="72" y1="156" x2="520" y2="156" stroke="#1a4630" stroke-width="1"/>
+  <g fill="#1c1914" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="22">
+    <text x="88" y="214" opacity="1">1  Ukraine<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.4s" fill="freeze"/></text>
+    <text x="88" y="258" opacity="1">2  Poland<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.55s" fill="freeze"/></text>
+    <text x="88" y="302" opacity="1">3  England<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.7s" fill="freeze"/></text>
+    <text x="88" y="346" opacity="1">4  Canada<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.85s" fill="freeze"/></text>
+    <text x="88" y="390" opacity="1">5  Germany<animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1s" fill="freeze"/></text>
+  </g>
+  <g fill="#1a4630" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="16">
+    <text x="360" y="214">table rate, not a price</text>
+    <text x="360" y="258">table rate, not a price</text>
+    <text x="360" y="302">table rate, not a price</text>
+    <text x="360" y="346">table rate, not a price</text>
+    <text x="360" y="390">table rate, not a price</text>
+  </g>
+  <rect x="72" y="440" width="816" height="128" fill="#1a4630"/>
+  <text x="96" y="492" fill="#f7f1e4" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="28">Download the portable program</text>
+  <text x="96" y="532" fill="#f7f1e4" font-family="Palatino Linotype, Palatino, Georgia, serif" font-size="18">Windows sport-forcast.exe    ·    Linux sport-forcast</text>
+  <circle cx="820" cy="504" r="8" fill="#f7f1e4">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
